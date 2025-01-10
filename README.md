@@ -1,6 +1,6 @@
 # BlockFarm-Page
 
- _It's a project about blockchains and a little emterprise that use the this method to comertialise their products and services_
+ _It is a blockchain project and a small company that uses this method to market products and services._
 
 ## Angular 16
 
