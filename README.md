@@ -5,9 +5,20 @@
 ## Angular 16
 
  _This project uses Angular integrations to implement tools for the UI and backends._
+ ```
+Pipes
+Routes
+```
 
 ## Integrations
 MongoDB
 
 Angular Material
 
+Primeflex
+
+Primeicons
+
+Primeng
+
+rxjs
